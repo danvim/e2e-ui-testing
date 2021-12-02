@@ -1,0 +1,11 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "danvim <daniel.2345@hotmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "esbuild": "^0.14.1"
+  }
+}
